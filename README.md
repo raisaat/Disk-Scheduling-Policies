@@ -34,7 +34,7 @@ The main function starts by looping through the numbers of I/O requests, beginni
 
         gcc program5.c -o program5
 
-where program5. is the program source code and program5 is the executable.
+   where program5. is the program source code and program5 is the executable.
 
 2. Enter the following command to run the program:
 
