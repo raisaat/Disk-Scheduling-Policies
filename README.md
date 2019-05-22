@@ -1,0 +1,2 @@
+# Disk-Scheduling-Policies
+A program that does a Monte Carlo simulation of four disk scheduling algorithms: 1. First-In-First-Out (FIFO), 2. Shortest-Service-Time-First (SSTF), 3. SCAN, and 4. Circular SCAN (C-SCAN). The program runs 100 simulations for each number of I/O requests (5 - 50 inclusive). It randomly generates a sequence of unique track numbers from 1 – 199 (inclusive) in each simulation of each number of I/O requests and then computes the average seek time over the 100 simulations of each number of I/O requests for each algorithm.
